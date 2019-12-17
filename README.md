@@ -40,3 +40,11 @@ by Beth Ann Winebarger in 2019
 Site Map was developed by using Avenza Maps smart phone application to collect GPS data in the field which was then processed in ArcGIS 10.7. 
 Base Map was developed using the LiDAR point cloud of Kentucky which was used to develop the digital elevation model and hillshade. The aerial imagery was used as a back-drop and the camp property outline was created by Beth Ann Winebarger.
 Ecological Site Analysis was written by Beth Ann Winebarger (2019) based on resources from the Kentucky Geological Survey, Web Soil Survey, and United States Geological Survey. 
+
+
+
+### Metadata
+This website is a product of work completed through an Independent Study and GEO 409: Advanced GIS.
+The goal of this project is to help provide data and information to potential visitors and volunteers connected to Bear Creek Aquatic Camp
+Completed by Beth Ann Winebarger
+Last Update: December 2019
