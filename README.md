@@ -18,10 +18,12 @@ Two campers walking down the main camp trail (photo by Beth Ann Winebarger)
 
 ## Site Map
 ![image of a site map for BCAC](sitemap\BCAC_Draft_2.jpg)
+[link to site map](sitemap\BCAC_Draft_2.jpg)
 Site map created for BCAC by Beth Ann Winebarger in 2019
 
 ## Base Map
 ![Image of a map of the camp with aerial imagery and hillshade](basemap\bcac.jpg)
+[link to base map](basemap\bcac.jpg)
 Base map created showing the aerial imagery (NAIP 2018, 2ft imagery) along with an exaggerated hillshade to show the local relief. Created by Beth Ann Winebarger in 2019
 
 ## Other Map Products
