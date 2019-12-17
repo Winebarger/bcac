@@ -28,7 +28,8 @@ Base map created showing the aerial imagery (NAIP 2018, 2ft imagery) along with 
 
 ## Ecological Site Analysis
 An overview of the geology, soil, hydrology, canopy cover, and land use classification of Bear Creek Aquatic Camp: 
-![link to ecological site analysis](documents\Ecological Site Analysis of Bear Creek Aquatic Camp.htm) by Beth Ann Winebarger in 2019
+[Ecological Site Analysis](bcac\site_analysis.md) 
+by Beth Ann Winebarger in 2019
 
 ## Sources and Tools
 * Point cloud and derived elevation data from KY From Above (2018)
