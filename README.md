@@ -2,9 +2,9 @@
 ## A Girl Scouts of Kentuckiana property located in Western Kentucky on Kentucky Lake
 
 ![Image of the lake](photos/IMG_3575.jpg)
-View of the sunrise from the shoreline by the Coke Top living unit (photo by Beth Ann Winebarger)
+_View of the sunrise from the shoreline by the Coke Top living unit (photo by Beth Ann Winebarger)_
 ![Sailboat on the lake](photos\image2.jpg)
-Campers and Counselors sailing a flying scot on Kentucky Lake (photo by Beth Ann Winebarger)
+_Campers and Counselors sailing a flying scot on Kentucky Lake (photo by Beth Ann Winebarger)_
 
 ## Camp Facts and History
 * The camp is 183 acres of forested and moderately developed land.
@@ -14,24 +14,24 @@ Campers and Counselors sailing a flying scot on Kentucky Lake (photo by Beth Ann
 * On-shore activities include archery, teams course, arts and crafts, games in the meadow, and singing.
 * __Summer 2019 Camp Registration: https://www.gskentuckiana.org/en/camp/resident_camp.html__
 ![Two girls walking down a camp trail](photos\image1.jpg)
-Two campers walking down the main camp trail (photo by Beth Ann Winebarger)
+_Two campers walking down the main camp trail (photo by Beth Ann Winebarger)_
 
 ## Site Map
 ![image of a site map for BCAC](sitemap\BCAC_Draft_2.jpg)
 [link to site map](sitemap\BCAC_Draft_2.jpg)
-Site map created for BCAC by Beth Ann Winebarger in 2019
+_Site map created for BCAC by Beth Ann Winebarger in 2019_
 
 ## Base Map
 ![Image of a map of the camp with aerial imagery and hillshade](basemap\bcac.jpg)
 [link to base map](basemap\bcac.jpg)
-Base map created showing the aerial imagery (NAIP 2018, 2ft imagery) along with an exaggerated hillshade to show the local relief. Created by Beth Ann Winebarger in 2019
+_Base map created showing the aerial imagery (NAIP 2018, 2ft imagery) along with an exaggerated hillshade to show the local relief. Created by Beth Ann Winebarger in 2019_
 
 ## Other Map Products
 
 ## Ecological Site Analysis
 An overview of the geology, soil, hydrology, canopy cover, and land use classification of Bear Creek Aquatic Camp: 
 [Ecological Site Analysis](bcac\site_analysis.md) 
-by Beth Ann Winebarger in 2019
+_by Beth Ann Winebarger in 2019_
 
 ## Sources and Tools
 * Point cloud and derived elevation data from KY From Above (2018)
