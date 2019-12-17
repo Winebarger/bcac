@@ -46,7 +46,7 @@ Ecological Site Analysis was written by Beth Ann Winebarger (2019) based on reso
 
 
 ### Metadata
-This website is a product of work completed through an Independent Study and GEO 409: Advanced GIS.
+* This website is a product of work completed through an Independent Study and GEO 409: Advanced GIS.
 The goal of this project is to help provide data and information to potential visitors and volunteers connected to Bear Creek Aquatic Camp
-Completed by Beth Ann Winebarger
-Last Update: December 2019
+* Completed by Beth Ann Winebarger
+* Last Update: December 2019
