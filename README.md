@@ -12,7 +12,7 @@ Campers and Counselors sailing a flying scot on Kentucky Lake (photo by Beth Ann
 * BCAC is open to troop camping nearly year-round and is filled with summer resident camps in June and July.
 * The property hosts a wide variety of aquatic activities including kayaking, canoeing, sailing, windsurfing, paddleboarding and swimming. 
 * On-shore activities include archery, teams course, arts and crafts, games in the meadow, and singing.
-* Summer 2019 Camp Registration: https://www.gskentuckiana.org/en/camp/resident_camp.html
+* __Summer 2019 Camp Registration: https://www.gskentuckiana.org/en/camp/resident_camp.html__
 ![Two girls walking down a camp trail](photos\image1.jpg)
 Two campers walking down the main camp trail (photo by Beth Ann Winebarger)
 
