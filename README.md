@@ -1,10 +1,9 @@
 # Bear Creek Aquatic Center
 ## A Girl Scouts of Kentuckiana property located in Western Kentucky on Kentucky Lake
 
+
 ![Image of the lake](photos/IMG_3575.jpg)    
 _View of the sunrise from the shoreline by the Coke Top living unit (photo by Beth Ann Winebarger)_
-![Sailboat on the lake](photos\image2.jpg)    
-_Campers and Counselors sailing a flying scot on Kentucky Lake (photo by Beth Ann Winebarger)_
 
 
 ## Camp Facts and History
@@ -16,10 +15,8 @@ _Campers and Counselors sailing a flying scot on Kentucky Lake (photo by Beth An
 * __Summer 2020 Camp Registration: https://www.gskentuckiana.org/en/camp/resident_camp.html__
 
 
-![Two girls walking down a camp trail](photos\image1.jpg)    
- _Two campers walking down the main camp trail (photo by Beth Ann Winebarger)_
-
-## Map of Kentucky Lake
+![Sailboat on the lake](photos\image2.jpg)    
+_Campers and Counselors sailing a flying scot on Kentucky Lake (photo by Beth Ann Winebarger)_
 
 
 
@@ -28,6 +25,13 @@ _Campers and Counselors sailing a flying scot on Kentucky Lake (photo by Beth An
 [Base Map (PDF)](basemap\Layout.pdf)
 [Base Map (JPG)](basemap\bcac.jpg)    
 _Base map created showing the aerial imagery (NAIP 2018, 2ft imagery) along with an exaggerated hillshade to show the local relief. Created by Beth Ann Winebarger in 2019_
+
+
+
+
+![Two girls walking down a camp trail](photos\image1.jpg)    
+ _Two campers walking down the main camp trail (photo by Beth Ann Winebarger)_
+
 
 
 ## Site Map
@@ -44,6 +48,11 @@ _Site map created for BCAC by Beth Ann Winebarger_
 [Contour Map (PDF)](contour\contour_map.pdf)
 [Contour Map (JPG)](contour\contour_map.jpg)    
 _Contour map created for BCAC with 10ft contours (every 100ft index contour is bold) by Beth Ann Winebarger in 2019_
+
+
+![Lifegaurd helping campers during a boating lesson](photos\DSC_1998.jpg)    
+_A counselor/lifegaurd instructing campers on the Aqua Finn sailboats during a boating lesson_
+
 
 ## Ecological Site Analysis
 The ecology of a site is integral to how that land should be managed and used by its inhabitants. Since Girl Scouts always leave a place better than how they found it, it is important for Girl Scouts of Kentucky to be mindful of the ecology of this beautiful property. This [ecological site analysis](site_analysis.md) was updated in 2019 using resources from the Kentucky Geological Survey and Web Soil Survey. (_by Beth Ann Winebarger_)
