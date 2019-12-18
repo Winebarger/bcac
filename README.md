@@ -9,7 +9,7 @@ _View of the sunrise from the shoreline by the Coke Top living unit (photo by Be
 ## Camp Facts and History
 * The camp is 183 acres of forested and moderately developed land.
 * The camp property has been a Girl Scout camp since 1944.
-* BCAC is open to troop camping nearly year-round and is filled with summer resident camps in June and July. _To reserve for troop camping, visit: https://www.gskentuckiana.org/en/our-council/camp-properties/bear-creek-aquatic-center.html
+* BCAC is open to troop camping nearly year-round and is filled with summer resident camps in June and July. __To reserve for troop camping, visit: https://www.gskentuckiana.org/en/our-council/camp-properties/bear-creek-aquatic-center.html__
 * The property hosts a wide variety of aquatic activities including kayaking, canoeing, sailing, windsurfing, paddleboarding and swimming. 
 * On-shore activities include archery, teams course, arts and crafts, games in the meadow, and singing.
 * __Summer 2020 Camp Registration: https://www.gskentuckiana.org/en/camp/resident_camp.html__
