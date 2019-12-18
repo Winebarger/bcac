@@ -2,8 +2,12 @@
 ## A Girl Scouts of Kentuckiana property located in Western Kentucky on Kentucky Lake
 
 
+
+
 ![Image of the lake](photos/IMG_3575.jpg)    
 _View of the sunrise from the shoreline by the Coke Top living unit (photo by Beth Ann Winebarger)_
+
+
 
 
 ## Camp Facts and History
@@ -15,8 +19,11 @@ _View of the sunrise from the shoreline by the Coke Top living unit (photo by Be
 * __Summer 2020 Camp Registration: https://www.gskentuckiana.org/en/camp/resident_camp.html__
 
 
+
+
 ![Sailboat on the lake](photos\image2.jpg)    
 _Campers and Counselors sailing a flying scot on Kentucky Lake (photo by Beth Ann Winebarger)_
+
 
 
 
@@ -34,12 +41,14 @@ _Base map created showing the aerial imagery (NAIP 2018, 2ft imagery) along with
 
 
 
+
 ## Site Map
 This site map of the property was developed in 2019 by using an iPhone application called Avenza Maps. Features across the property were recorded using GPS location and photographs. The map was then developed and is avaliable here for download (as a PDF or JPG) for any new or old visitors to the camp property.
 ![image of a site map for BCAC](sitemap\BCAC_Draft_2.jpg)
 [Site Map (PDF)](sitemap\Update_10_15_19_BCAC.pdf)     |      
 [Site Map (JPG)](sitemap\BCAC_Draft_2.jpg)    
 _Site map created for BCAC by Beth Ann Winebarger_
+
 
 
 
@@ -50,12 +59,18 @@ _Site map created for BCAC by Beth Ann Winebarger_
 _Contour map created for BCAC with 10ft contours (every 100ft index contour is bold) by Beth Ann Winebarger in 2019_
 
 
+
+
 ![Lifegaurd helping campers during a boating lesson](photos\DSC_1998.jpg)    
 _A counselor/lifegaurd instructing campers on the Aqua Finn sailboats during a boating lesson_
 
 
+
+
 ## Ecological Site Analysis
 The ecology of a site is integral to how that land should be managed and used by its inhabitants. Since Girl Scouts always leave a place better than how they found it, it is important for Girl Scouts of Kentucky to be mindful of the ecology of this beautiful property. This [ecological site analysis](site_analysis.md) was updated in 2019 using resources from the Kentucky Geological Survey and Web Soil Survey. (_by Beth Ann Winebarger_)
+
+
 
 
 ## Sources and Tools
@@ -67,6 +82,8 @@ The ecology of a site is integral to how that land should be managed and used by
 Site Map was developed by using Avenza Maps smart phone application to collect GPS data in the field which was then processed in ArcGIS 10.7. 
 Base Map was developed using the LiDAR point cloud of Kentucky which was used to develop the digital elevation model and hillshade. The aerial imagery was used as a back-drop and the camp property outline was created by Beth Ann Winebarger.
 Ecological Site Analysis was written by Beth Ann Winebarger (2019) based on resources from the Kentucky Geological Survey, Web Soil Survey, and United States Geological Survey. 
+
+
 
 
 
