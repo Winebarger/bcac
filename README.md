@@ -21,22 +21,22 @@ _View of the sunrise from the shoreline by the Coke Top living unit (photo by Be
 
 
 
-![Sailboat on the lake](photos\image2.jpg)    
+![Sailboat on the lake](photos/image2.jpg)    
 _Campers and Counselors sailing a flying scot on Kentucky Lake (photo by Beth Ann Winebarger)_
 
 
 
 
 ## Base Map
-![Image of a map of the camp with aerial imagery and hillshade](basemap\bcac.jpg)
-[Base Map (PDF)](basemap\Layout.pdf)
-[Base Map (JPG)](basemap\bcac.jpg)    
+![Image of a map of the camp with aerial imagery and hillshade](basemap/bcac.jpg)
+[Base Map (PDF)](basemap/Layout.pdf)
+[Base Map (JPG)](basemap/bcac.jpg)    
 _Base map created showing the aerial imagery (NAIP 2018, 2ft imagery) along with an exaggerated hillshade to show the local relief. Created by Beth Ann Winebarger in 2019_
 
 
 
 
-![Two girls walking down a camp trail](photos\image1.jpg)    
+![Two girls walking down a camp trail](photos/image1.jpg)    
  _Two campers walking down the main camp trail (photo by Beth Ann Winebarger)_
 
 
@@ -44,24 +44,24 @@ _Base map created showing the aerial imagery (NAIP 2018, 2ft imagery) along with
 
 ## Site Map
 This site map of the property was developed in 2019 by using an iPhone application called Avenza Maps. Features across the property were recorded using GPS location and photographs. The map was then developed and is avaliable here for download (as a PDF or JPG) for any new or old visitors to the camp property.
-![image of a site map for BCAC](sitemap\BCAC_Draft_2.jpg)
-[Site Map (PDF)](sitemap\Update_10_15_19_BCAC.pdf)     |      
-[Site Map (JPG)](sitemap\BCAC_Draft_2.jpg)    
+![image of a site map for BCAC](sitemap/BCAC_Draft_2.jpg)
+[Site Map (PDF)](sitemap/Update_10_15_19_BCAC.pdf)     |      
+[Site Map (JPG)](sitemap/BCAC_Draft_2.jpg)    
 _Site map created for BCAC by Beth Ann Winebarger_
 
 
 
 
 ## Contour Map
-![image of contour map for BCAC](contour\contour_map.jpg)
-[Contour Map (PDF)](contour\contour_map.pdf)
-[Contour Map (JPG)](contour\contour_map.jpg)    
+![image of contour map for BCAC](contour/contour_map.jpg)
+[Contour Map (PDF)](contour/contour_map.pdf)
+[Contour Map (JPG)](contour/contour_map.jpg)    
 _Contour map created for BCAC with 10ft contours (every 100ft index contour is bold) by Beth Ann Winebarger in 2019_
 
 
 
 
-![Lifegaurd helping campers during a boating lesson](photos\DSC_1998.jpg)    
+![Lifegaurd helping campers during a boating lesson](photos/DSC_1998.jpg)    
 _A counselor/lifegaurd instructing campers on the Aqua Finn sailboats during a boating lesson_
 
 
