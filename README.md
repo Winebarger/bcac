@@ -62,7 +62,7 @@ _Contour map created for BCAC with 10ft contours (every 100ft index contour is b
 
 
 ![Lifegaurd helping campers during a boating lesson](photos/DSC_1998.jpg)    
-_A counselor/lifegaurd instructing campers on the Aqua Finn sailboats during a boating lesson_
+_A counselor/lifegaurd instructing campers on the Aqua Finn sailboats during a boating lesson (photo by Mallory Jent, 2018)_
 
 
 
@@ -77,7 +77,7 @@ The ecology of a site is integral to how that land should be managed and used by
 * Point cloud and derived elevation data from KY From Above (2018)
 * Aerial imagery from KY NAIP 2018, with 2ft accuracy
 * GPS Data collected by Beth Ann Winebarger (2019)
-* Images taken by Beth Ann Winebarger (2017)
+* Images taken by Beth Ann Winebarger (2017) and Mallory Jent (2018)
 
 Site Map was developed by using Avenza Maps smart phone application to collect GPS data in the field which was then processed in ArcGIS 10.7. 
 Base Map was developed using the LiDAR point cloud of Kentucky which was used to develop the digital elevation model and hillshade. The aerial imagery was used as a back-drop and the camp property outline was created by Beth Ann Winebarger.
